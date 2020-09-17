@@ -1,0 +1,28 @@
+Três regras principais
+Labirinto da vacina
+
+Três regras simples:
+
+1)Máscara salva vidas
+	-A máscara deixará o player invencível temporariamente
+2)Mantenha a distância social
+	-Chegar perto de NPC os faz espirrar/tossir e jogar vírus
+3)Achar as seringas e acumulá-las para encontrar a cura
+	-Toda fase seguinte precisará de um mínimo de seringas para ser aberta
+	
+Core Loop:
+
+1) Coletar seringas, que são os pontos. 
+2) Evitar os NPCs espirrando. 
+3) Atirar sabão para distrair algum NPC.
+4) Deslocar do ponto A ao B.
+
+Condição de vitória: chegar no ponto  B com um mínimo de seringas. 
+Condição de derrota: perder toda a vida.
+
+Level Design
+
+1) Tutorial
+2) Três fases de início sendo labirintos
+3) Sprites Modernas
+4) Plot simples

@@ -1,0 +1,2 @@
+/// @description ponto
+global.pontos ++;

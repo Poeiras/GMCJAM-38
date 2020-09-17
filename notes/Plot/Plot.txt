@@ -1,0 +1,6 @@
+Plot do jogo: 
+
+The game consists in quest for finding the cure for the virus. 
+Our hero needs to run all over the place, find the syringes and avoid to be contaminated. 
+Follow the basic rules of a pandemic situation: try to use a mask all the time, keep social distancing and find a cure. 
+The bad guys are the regular people, that are not using masks, or keeping social distance.

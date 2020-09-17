@@ -1,0 +1,65 @@
+Objetos principais
+1)Player
+	Feito:
+	- Movimento
+	- Interação com itens: máscara, coração, seringa.
+	- Colisão e interação com inimigos
+	- Tiro de sabão
+	- FX de mini explosão
+
+	Falta:
+	- Interação com obstáculos
+
+2)Inimigos
+	Feito:
+	- Inimigo base
+		- Movimento simples
+		- Tiro(espirro)
+		- Tiro de sabão pausa movimento e gira
+	Falta:
+	-Colisão e interação com o player
+	-Criar outros inimigos e comportamentos diferentes
+	-Chefe final
+	
+3)Itens
+	Feito:
+	- Coração +1hp
+	- Seringa +1 ponto
+	- Máscara - imunidade 
+	- Criar o sistema de pontos das seringas
+
+4)UI
+	Feito:
+	- Sistema de vida
+	- Sistema de pontos
+	- Configurar câmera
+	Falta:
+	- Mini mapa -- não farei
+
+5)Sistema
+	Feito:
+	- Menus
+	Falta:
+	- Save point -- não farei
+	- Tela de morte na hora do jogo
+	
+6)Fases
+	Feito:
+	- Fase um
+	Falta:
+	- Desenhar os níveis
+	- Montá-los e definir visual
+	
+7)Arte
+	-Feito:
+	-Itens: máscara, virus, coração, seringa
+	-Sprite do player
+	Falta:
+	- Sprite de NPC
+	- Tiles e BGs -- não vou fazer
+
+8)Sons
+	Feito:
+	- Sound FX geral
+	Falta:
+	- BGM

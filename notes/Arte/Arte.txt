@@ -1,0 +1,7 @@
+Artes a encontrar e desenvolver:
+
+1) Um player: médico, sobrevivente 
+2) NPCs: pessoas comuns
+3) Itens: sabão
+4) Tiles de cidade comum
+5) BGs de cidade
